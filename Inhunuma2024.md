@@ -1,0 +1,35 @@
+# Institute of African Digital Humanities
+
+## Voice Technologies Datasets for African Under-Served Languages
+
+### 30 under-served African languages launched on Commonvoice !!
+
+- [Adamawa Fulfulde](https://commonvoice.mozilla.org/fub)
+- [Baatonum](https://commonvoice.mozilla.org/bba)
+- [Bafia](https://commonvoice.mozilla.org/ksf)
+- [Bafut](https://commonvoice.mozilla.org/bfd)
+- [Bamun](https://commonvoice.mozilla.org/bax)
+- [Bamvele](https://commonvoice.mozilla.org/beb)
+- [Bankon](https://commonvoice.mozilla.org/abb)
+- [Baoule](https://commonvoice.mozilla.org/bci)
+- [Batanga](https://commonvoice.mozilla.org/bnm)
+- [Borgu Fulfulde](https://commonvoice.mozilla.org/fue)
+- [Bulu](https://commonvoice.mozilla.org/bum)
+- [Cameroon Pidgin English](https://commonvoice.mozilla.org/wes)
+- [Dagbani](https://commonvoice.mozilla.org/dag)
+- [Duala](https://commonvoice.mozilla.org/dua)
+- [Ebrie](https://commonvoice.mozilla.org/ebr)
+- [Eton](https://commonvoice.mozilla.org/eto)
+- [Ewondo](https://commonvoice.mozilla.org/ewo)
+- [Fang](https://commonvoice.mozilla.org/fan)
+- [Gbaya, Northwest](https://commonvoice.mozilla.org/gya)
+- [Ghomala](https://commonvoice.mozilla.org/bbj)
+- [Ibibio](https://commonvoice.mozilla.org/ibb)
+- [Kom](https://commonvoice.mozilla.org/bkm)
+- [Mada](https://commonvoice.mozilla.org/mxu)
+- [Mbo](https://commonvoice.mozilla.org/mbo)
+- [Medumba](https://commonvoice.mozilla.org/byv)
+- [Mokpwe](https://commonvoice.mozilla.org/bri)
+- [Ngiemboon](https://commonvoice.mozilla.org/nnh)
+- [Tunen](https://commonvoice.mozilla.org/tvu)
+- [Tupuri](https://commonvoice.mozilla.org/tui)
